@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 ## This git ID is practice ID ⚡
+
+<img src="https://img.shields.io/badge/ollama-RGB#000000?style=for-the-badge&logo=ollama&logoColor=white">
+
 <!--
 **purple34875/purple34875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
