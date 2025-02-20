@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## This git ID is practice ID ⚡
+
 
 <img src="https://img.shields.io/badge/ollama-RGB#000000?style=for-the-badge&logo=ollama&logoColor=white">
 
